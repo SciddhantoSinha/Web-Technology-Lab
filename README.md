@@ -104,13 +104,6 @@ The experiments cover **frontend**, **client-side scripting**, **server-side pro
 
 ---
 
-### Experiment 13: JSP Locale-Based Date Display
-- Created a JSP form to select locale
-- Displayed date format based on selected locale
-- Implemented server-side rendering using JSP
-
----
-
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
